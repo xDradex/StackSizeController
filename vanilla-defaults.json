@@ -1083,4 +1083,9 @@
   "advancedwarmingtea": 1,
   "advanceharvestingtea": 1,
   "pureharvestingtea": 1,
+  "abyss.barrel.horizontal": 1,
+  "abyss.barrel.vertical": 1,
+  "documents": 100,
+  "gates.external.high.legacy": 1,
+  "wall.external.high.legacy": 1,
 }
