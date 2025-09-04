@@ -1094,5 +1094,19 @@
   "compass": 1,
   "hazmatsuit.pilot": 1,
   "lock.code.a.pilot": 1,
-  "pilot.hazmat.box.wooden": 1
+  "pilot.hazmat.box.wooden": 1,
+  "mannequin": 1,
+  "electric.wallcabinet": 1,
+  "electric.tablelight": 1,
+  "electric.spotlight.tripod": 1,
+  "electric.spotlight": 1,
+  "electric.fluorescentlight": 1,
+  "electric.fluorescentlight.ceiling": 1,
+  "electric.fairylights": 1,
+  "electric.chandelier": 1,
+  "electric.bulbstringlights": 1,
+  "clothing.mannequin": 1,
+  "beanbagseatleather": 1,
+  "beanbagseatfabric": 1,
+  "batteringram.head.repair": 1
 }
