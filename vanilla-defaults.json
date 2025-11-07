@@ -1121,21 +1121,7 @@
   "krieg.storage.vertical": 1,
   "krieg.chainsword": 1,
   "mini fridge": 1,
-  "hab": 1,
   "ball": 1,
-  "4module car chassis": 1,
-  "3module car": 1,
-  "3module car chassis": 1,
-  "sedan": 1,
-  "scraptransportheli": 1,
   "rocket.launcher.rpg7": 1,
-  "rhib": 1,
-  "mlrs": 1,
-  "minicopter": 1,
-  "horse": 1,
-  "hazmatsuit.kick": 1,
-  "caboose": 1,
-  "4module car": 1,
-  "3module car": 1,
-  "2module car": 1
+  "hazmatsuit.kick": 1
 }
