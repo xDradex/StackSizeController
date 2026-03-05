@@ -1181,5 +1181,21 @@
   "goldframe.xxl": 1,
   "heavy.scientist.plushie": 1,
   "horse.armor.lny26": 1,
-  "lightup.xl": 1
+  "lightup.xl": 1,
+  "component.box.armor.large": 1,
+  "component.box.charcoal.large": 1,
+  "component.box.clothing.large": 1,
+  "component.box.comps.large": 1,
+  "component.box.explosives.large": 1,
+  "component.box.food.large": 1,
+  "component.box.guns.large": 1,
+  "component.box.meds.large": 1,
+  "component.box.metal.large": 1,
+  "component.box.ore.large": 1,
+  "component.box.scrap.large": 1,
+  "component.box.stone.large": 1,
+  "component.box.sulfur.large": 1,
+  "component.box.tools.large": 1,
+  "component.box.wood.large": 1,
+  "component.box.ammo.large": 1
 }
