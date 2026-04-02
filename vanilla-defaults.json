@@ -1197,5 +1197,8 @@
   "component.box.sulfur.large": 1,
   "component.box.tools.large": 1,
   "component.box.wood.large": 1,
-  "component.box.ammo.large": 1
+  "floor.ladder.hatch.toptier": 1,
+  "generator.water": 1,
+  "rustige_egg_h": 1,
+  "bunny.suit": 1
 }
