@@ -1200,5 +1200,21 @@
   "floor.ladder.hatch.toptier": 1,
   "generator.water": 1,
   "rustige_egg_h": 1,
-  "bunny.suit": 1
+  "bunny.suit": 1,
+  "ammo.mortar.basic": 1,
+  "ammo.mortar.fragment": 1,
+  "mortar.deployable": 1,
+  "floor.ladder.hatch.toptier": 1,
+  "workbench.upgrade.salvage": 1,
+  "workbench.upgrade.recyclebin": 1,
+  "workbench.upgrade.range": 1,
+  "workbench.upgrade.prototype": 1,
+  "workbench.upgrade.efficiency": 1,
+  "workbench.upgrade.defensive": 1,
+  "workbench.upgrade.comfort": 1,
+  "workbench.upgrade.accelerated": 1,
+  "base.vertical.barrel": 1,
+  "base.single.shelves": 1,
+  "base.horizontal.barrel": 1,
+  "base.half.shelves": 1
 }
