@@ -1274,5 +1274,12 @@
   "thruster.module": 1,
   "wall.shallow.industrial.shelves": 1,
   "workbench.upgrade.reinforced": 1,
-  "workbench.upgrade.surplus": 1
+  "workbench.upgrade.surplus": 1,
+  "firework.boomer.white": 20,
+  "medical.honey.bandage": 3,
+  "rifle.ak.glass": 1,
+  "rifle.ak.glass.blue": 1,
+  "rifle.ak.glass.green": 1,
+  "rifle.ak.glass.pink": 1,
+  "rifle.ak.glass.red": 1
 }
